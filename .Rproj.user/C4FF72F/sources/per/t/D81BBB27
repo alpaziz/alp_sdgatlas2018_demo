@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574882546892.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3308830122",
+    "id" : "D81BBB27",
+    "lastKnownWriteTime" : 1574883299,
+    "last_content_update" : 1574883299979,
+    "path" : "~/Desktop/DECDG/sdgatlas2018/styles.R",
+    "project_path" : "styles.R",
+    "properties" : {
+        "cursorPosition" : "3,16",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
