@@ -11,7 +11,9 @@ library(wbgdata)
 library(wbgcharts)
 library(wbgmaps)
 library(wbggeo)
-source("styles.R")
+
+# source raw
+devtools::source_url("https://raw.githubusercontent.com/alpaziz/alp_sdgatlas2018_demo/master/styles.R")
 
 
 #TODO: CONSIDER REPLACING gather() with pivot_longer()
